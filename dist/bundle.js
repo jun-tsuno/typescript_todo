@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#list");const e=document.getElementById("new-task-form"),t=document.querySelector("#new-task-title");null==e||e.addEventListener("submit",(e=>{e.preventDefault(),""!==(null==t?void 0:t.value)&&null!==(null==t?void 0:t.value)&&t.value}))})();
